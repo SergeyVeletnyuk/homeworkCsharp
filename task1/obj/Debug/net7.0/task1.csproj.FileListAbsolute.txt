@@ -1,15 +1,30 @@
-C:\Users\User\Desktop\С# практика\homework1\task1\bin\Debug\net7.0\task1.exe
-C:\Users\User\Desktop\С# практика\homework1\task1\bin\Debug\net7.0\task1.deps.json
-C:\Users\User\Desktop\С# практика\homework1\task1\bin\Debug\net7.0\task1.runtimeconfig.json
-C:\Users\User\Desktop\С# практика\homework1\task1\bin\Debug\net7.0\task1.dll
-C:\Users\User\Desktop\С# практика\homework1\task1\bin\Debug\net7.0\task1.pdb
-C:\Users\User\Desktop\С# практика\homework1\task1\obj\Debug\net7.0\task1.csproj.AssemblyReference.cache
-C:\Users\User\Desktop\С# практика\homework1\task1\obj\Debug\net7.0\task1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\User\Desktop\С# практика\homework1\task1\obj\Debug\net7.0\task1.AssemblyInfoInputs.cache
-C:\Users\User\Desktop\С# практика\homework1\task1\obj\Debug\net7.0\task1.AssemblyInfo.cs
-C:\Users\User\Desktop\С# практика\homework1\task1\obj\Debug\net7.0\task1.csproj.CoreCompileInputs.cache
-C:\Users\User\Desktop\С# практика\homework1\task1\obj\Debug\net7.0\task1.dll
-C:\Users\User\Desktop\С# практика\homework1\task1\obj\Debug\net7.0\refint\task1.dll
-C:\Users\User\Desktop\С# практика\homework1\task1\obj\Debug\net7.0\task1.pdb
-C:\Users\User\Desktop\С# практика\homework1\task1\obj\Debug\net7.0\task1.genruntimeconfig.cache
-C:\Users\User\Desktop\С# практика\homework1\task1\obj\Debug\net7.0\ref\task1.dll
+C:/Users/User/Desktop/С# практика/homework1/task1/bin/Debug/net7.0/task1.exe
+C:/Users/User/Desktop/С# практика/homework1/task1/bin/Debug/net7.0/task1.deps.json
+C:/Users/User/Desktop/С# практика/homework1/task1/bin/Debug/net7.0/task1.runtimeconfig.json
+C:/Users/User/Desktop/С# практика/homework1/task1/bin/Debug/net7.0/task1.dll
+C:/Users/User/Desktop/С# практика/homework1/task1/bin/Debug/net7.0/task1.pdb
+C:/Users/User/Desktop/С# практика/homework1/task1/obj/Debug/net7.0/task1.csproj.AssemblyReference.cache
+C:/Users/User/Desktop/С# практика/homework1/task1/obj/Debug/net7.0/task1.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/Desktop/С# практика/homework1/task1/obj/Debug/net7.0/task1.AssemblyInfoInputs.cache
+C:/Users/User/Desktop/С# практика/homework1/task1/obj/Debug/net7.0/task1.AssemblyInfo.cs
+C:/Users/User/Desktop/С# практика/homework1/task1/obj/Debug/net7.0/task1.csproj.CoreCompileInputs.cache
+C:/Users/User/Desktop/С# практика/homework1/task1/obj/Debug/net7.0/task1.dll
+C:/Users/User/Desktop/С# практика/homework1/task1/obj/Debug/net7.0/refint/task1.dll
+C:/Users/User/Desktop/С# практика/homework1/task1/obj/Debug/net7.0/task1.pdb
+C:/Users/User/Desktop/С# практика/homework1/task1/obj/Debug/net7.0/task1.genruntimeconfig.cache
+C:/Users/User/Desktop/С# практика/homework1/task1/obj/Debug/net7.0/ref/task1.dll
+/Users/sergejveletnuk/Desktop/C#/homeworkCsharp/task1/bin/Debug/net7.0/task1
+/Users/sergejveletnuk/Desktop/C#/homeworkCsharp/task1/bin/Debug/net7.0/task1.deps.json
+/Users/sergejveletnuk/Desktop/C#/homeworkCsharp/task1/bin/Debug/net7.0/task1.runtimeconfig.json
+/Users/sergejveletnuk/Desktop/C#/homeworkCsharp/task1/bin/Debug/net7.0/task1.dll
+/Users/sergejveletnuk/Desktop/C#/homeworkCsharp/task1/bin/Debug/net7.0/task1.pdb
+/Users/sergejveletnuk/Desktop/C#/homeworkCsharp/task1/obj/Debug/net7.0/task1.csproj.AssemblyReference.cache
+/Users/sergejveletnuk/Desktop/C#/homeworkCsharp/task1/obj/Debug/net7.0/task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergejveletnuk/Desktop/C#/homeworkCsharp/task1/obj/Debug/net7.0/task1.AssemblyInfoInputs.cache
+/Users/sergejveletnuk/Desktop/C#/homeworkCsharp/task1/obj/Debug/net7.0/task1.AssemblyInfo.cs
+/Users/sergejveletnuk/Desktop/C#/homeworkCsharp/task1/obj/Debug/net7.0/task1.csproj.CoreCompileInputs.cache
+/Users/sergejveletnuk/Desktop/C#/homeworkCsharp/task1/obj/Debug/net7.0/task1.dll
+/Users/sergejveletnuk/Desktop/C#/homeworkCsharp/task1/obj/Debug/net7.0/refint/task1.dll
+/Users/sergejveletnuk/Desktop/C#/homeworkCsharp/task1/obj/Debug/net7.0/task1.pdb
+/Users/sergejveletnuk/Desktop/C#/homeworkCsharp/task1/obj/Debug/net7.0/task1.genruntimeconfig.cache
+/Users/sergejveletnuk/Desktop/C#/homeworkCsharp/task1/obj/Debug/net7.0/ref/task1.dll

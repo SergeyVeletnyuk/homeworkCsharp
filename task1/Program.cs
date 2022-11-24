@@ -12,3 +12,5 @@ else
 {
     Console.WriteLine($"{num2} больше чем число {num1}");
 }
+
+Console.WriteLine("Hello world");

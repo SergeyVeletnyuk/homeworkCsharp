@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "/Users/sergejveletnuk/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\С# практика\\homework1\\task1\\task1.csproj",
+      "projectUniqueName": "/Users/sergejveletnuk/Desktop/C#/homeworkCsharp/task1/task1.csproj",
       "projectName": "task1",
-      "projectPath": "C:\\Users\\User\\Desktop\\С# практика\\homework1\\task1\\task1.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\С# практика\\homework1\\task1\\obj\\",
+      "projectPath": "/Users/sergejveletnuk/Desktop/C#/homeworkCsharp/task1/task1.csproj",
+      "packagesPath": "/Users/sergejveletnuk/.nuget/packages/",
+      "outputPath": "/Users/sergejveletnuk/Desktop/C#/homeworkCsharp/task1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/sergejveletnuk/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
       }
     }
   }
